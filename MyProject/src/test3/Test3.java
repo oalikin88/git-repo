@@ -13,6 +13,7 @@ public class Test3 {
 		System.out.println(test.age);
 		System.out.println(test.height + test.age);	
 		System.out.println("Hello world;");
+		System.out.println(test.weight);
 
 
 
