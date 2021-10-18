@@ -11,6 +11,7 @@ public class Test2 {
 		String s2 = "World!!!";
 		System.out.println(s1 + " " + s2);
 		System.out.println(a + b);
+		System.out.println(a * b * c);
 	}
 
 }
