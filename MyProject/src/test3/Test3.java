@@ -11,6 +11,7 @@ public class Test3 {
 		Test3 test = new Test3();
 		System.out.println(test.age);
 		System.out.println(test.height);
+		System.out.println("Hello world!");
 
 
 	}
