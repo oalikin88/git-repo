@@ -9,6 +9,7 @@ public class Test3 {
 		System.out.println("Java");
 		Test3 test = new Test3();
 		System.out.println(test.age);
+		System.out.println(test.height);
 	}
 
 }
